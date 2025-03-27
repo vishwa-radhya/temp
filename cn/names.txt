@@ -1,0 +1,7 @@
+5 - intra vlan 
+6a - inter vlan using l3 switch
+6b - inter vlan using router
+8a - link state routing
+8b - distance vector routing
+9 - dhcp config
+10 - tcp and ip packets wireshark
